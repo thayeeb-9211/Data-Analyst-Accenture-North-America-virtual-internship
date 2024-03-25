@@ -1,1 +1,2 @@
-# Data-Analyst-Accenture-North-America-virtual-internship
+# Accenture-Data-Analyst-Internship
+This repository consists of Accenture Data Analytics Virtual Internship Answers.
